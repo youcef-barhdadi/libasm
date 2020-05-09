@@ -1,6 +1,7 @@
 section .text
 	global _ft_strlen
 
+
 _ft_strlen:
 	xor rcx,rcx
 	xor rax,rax
